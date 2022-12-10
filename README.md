@@ -1,4 +1,4 @@
-# quiz-using-python
+# Quiz-using-python
 
 ## STARTING PHASE OF QUIZ 
 
